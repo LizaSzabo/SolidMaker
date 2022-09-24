@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/SolidMaker/classes_gen/
+/languages/SolidMaker/generator/classes_gen/
+/languages/SolidMaker/sandbox/classes_gen/
